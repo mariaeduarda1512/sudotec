@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>aula dia 01/03 </title>
+        </head>
+
+        <body>
+
+            <details>
+                <summary>titulodo item </summary>
+                <p>lorem ipsum dolor sit, amet consectetur adipisio
+          </details>
+
+               <fieldset>
+      <legend>titulo do item</legend>
+      lorem inpum dolor sit, amet consectetur 
+</fieldset>
+
+<progress>value=50 max=100</progress>
+     
+<table border="1">
+ <tr>
+    <td>linha 1, coluna 1 </td>
+   <td>linha 1 coluna 2 </td>
+   </tr>
+   <tr>
+    <td>linha 1 , coluna 1</td>
+    <td>linha 1 , coluna 2</td>
+    </tr>
+    </table>
+        </body></html>      
